@@ -1,5 +1,5 @@
 
-# Omegle Clone
+# Omegle Clone Using Web-Rtc and Socket.io
 
 This project is an Omegle clone, allowing users to anonymously chat with strangers. It aims to replicate the functionality and user experience of the popular Omegle platform.
 
